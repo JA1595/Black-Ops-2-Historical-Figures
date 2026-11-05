@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+
+<head>
+	<link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+	<h1>Historical Figures Who Appear in Call of Duty Games</h1>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<img class="bo2" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwo_ds9P5VNxOJuXKkQaUOaRBG215aE09v3gsvAVgRI2fvlE06yewTOlE:https://upload.wikimedia.org/wikipedia/en/0/05/Call_of_Duty_Black_Ops_II_box_artwork.png%3Futm_source%3Den.wikipedia.org%26utm_campaign%3Dindex%26utm_content%3Doriginal&s">
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+
+	<p>Beginning with Black Ops 2, Manuel Noriega shows up.</p>
+	<br>
+	<br>
+	<img class="SubNoriega" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4tFAMpMu6sFcbTe0anzHOWOt2LP1Y8fPnaM1OsivCKIO2xH_9nWnIIw:https://media.npr.org/assets/img/2017/05/30/ap_17066798905655-d793b4c0d7d100cdce1160c00a0da18e084c49ea.jpg&s=10">
+	<br>
+	<br>
+	<hr>
+
+	<h3>Game</h3>
+	<p>Call of Duty Black Ops 2</p>
+	<h3>Missions </h3>
+	<p class="Missions">Time and Fate | Suffer With Me</p>
+	<hr>
+
+	<h2>Time and Fate</h2>
+	<p>This mission starts with Alex Mason, Frank Woods, and Jason Hudson spying on Menendez as an attempt to capture him.
+		The player take on control of Raul Menendez, the main enemy in the game, while he's in his room with his sleeping
+		sister. The soldiers that Mason, Woods, and Hudson are allied with barge in and capture him. The camera cuts and
+		Menendez is in hand cuffs in front of the leader of the soliders, Manuel Noriega. He uncuffs Menendez, helping him
+		out. He jumps on Noriega and punches him unconcious. A distorting, red layer and the screams of his sister can be
+		heard as Menendez takes his Spas-12 shotgun and machete and begins to carve through Noriega's forces. He makes it
+		back to his the hallway to his apartment room and finds Mason, Woods, and Hudson on the other side. Then, the camera
+		cuts and shows Masons perspective through the mission. When they get to the hallway, Woods, overcome with anger from
+		being tortured, throws a grenade at Menendez, but the trajectory is changed by Mason who tries to stop him. The
+		grenade ends up inside Menendez's room, killing his sister.</p>
+	<img src="https://www.eff.org/files/2014/07/17/manuel_noriega_time_and_fate_boii.png">
+	<p style="font-size: 14px;">Manuel Noriega with his Spas-12 after killing two of his soldiers and about to uncuff Raul
+		Menendez</p>
+
+	<hr>
+	<h2>Suffer With Me</h2>
+	<p>Mason and Woods are given the objective to capture Manuel Noriega by Hudson. However, just upon capturing him,
+		Hudson changes objective. Noriega is to be deemed PC, or Precious Cargo, and taken through the dangerous streets of
+		Nicaragua for a trade off. Near the end of the mission, Mason seperates from Woods. It is unclear where Mason goes
+		at the time, but Woods takes an elevator up to the roof of a building to kill a target. Noriega acts very smug the
+		whole time. Hudson informs Woods as he is aiming that the target is Raul Menendez. Woods aims and shoots "Menendez"
+		non-lethally. Suspensful music plays as they walk toward the body. Noriega has a smug look on his face and Woods
+		feels something is wrong. He walk faster and starts running toward the body and pulls the fabric from his face and
+		reveals the true identity of the person he shot: Mason. Woods is knocked down by Menendez who shoots his knees with
+		12 gauge and knocks him out.He, Mason, and Hudson now appear in a torture room with Menendez and David Mason, Alex's
+		son. He says that one of the must die, and Hudson eventually volunteers. End Misson.</p>
+	<img class="NoriegaSuffer" src="https://pcmedia.gamespy.com/pc/image/article/122/1226671/t6sp2012-11-1314-16-55-89_1353011237.jpg">
+	<p style="font-size: 14px;">Alex Mason and Manuel Noriega captured from Frank Woods' view.</p>
+	<hr>
+	<p> Below is the wikipedia page explaining the real life events behind Black Ops 2's Suffer With Me mission.
+	<p>
+		<iframe class="PanamaInvadeWiki" src="https://en.wikipedia.org/wiki/United_States_invasion_of_Panama">
+
+
+
+</body>
+
+</html>
